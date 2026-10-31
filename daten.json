@@ -1,8 +1,8 @@
 {
  "meta": {
   "lastRun": "2026-10-31",
-  "lastRunLabel": "Sa 31.10., 04:18",
-  "note": "Instagram: 30 von 31 Accounts gelesen (regensburg_nightlife: keine Posts gefunden). Web: Alte Mälzerei, Degginger und Kalender abgerufen; Jazzclub-Programmseite zeigte nur Oktober-Termine, keine neuen."
+  "lastRunLabel": "Sa 31.10., 13:03",
+  "note": "Instagram: 57 von 58 Accounts gelesen (regensburg_nightlife: keine Posts gefunden). Web: Alte Mälzerei, Jazzclub, Degginger, Donau-Arena und Kalender abgerufen."
  },
  "events": [
   {
@@ -1890,7 +1890,62 @@
    "type": "Live",
    "url": "https://www.alte-maelzerei.de/de/prog.php",
    "venue": "Alte Mälzerei"
-  }
+  },
+  {"id": "2026-10-31-murphys-halloween", "added": "2026-10-31", "date": "2026-10-31", "info": "Ab 14:00 geöffnet · 15:30 Bundesliga, 18:30 Bayern : Dortmund · Halloween-Überraschungen · Eintritt frei", "source": "instagram", "time": "14:00", "title": "Halloween Night – Bayern : Dortmund", "type": "Kneipe & Quiz", "url": "https://www.instagram.com/p/De-BZEForGA/", "venue": "Murphy's Law"},
+  {"id": "2026-10-31-angels-halloween", "added": "2026-10-31", "date": "2026-10-31", "info": "21–02 Uhr · Verkleidete bekommen einen Shot aufs Haus · Tickets über den Club", "source": "instagram", "time": "21:00", "title": "Halloween Party", "type": "Party", "url": "https://www.instagram.com/p/Deg-V9SCtph/", "venue": "Angels Club"},
+  {"id": "2026-10-31-fassbar-halloween", "added": "2026-10-31", "date": "2026-10-31", "info": "Öffnet an Halloween schon um 20 Uhr · Verkleidung erwünscht", "source": "instagram", "time": "20:00", "title": "Halloween in der Fassbar", "type": "Party", "url": "https://www.instagram.com/p/DfDxWEiI2oG/", "venue": "Augustiner Fassbar"},
+  {"id": "2026-10-31-filmbuehne-halloween", "added": "2026-10-31", "date": "2026-10-31", "info": "Halloween-Specials: Black Skinny Witch, Wodka Red Blood, Green Witch Fizz", "source": "instagram", "time": "20:15", "title": "Halloween-Abend", "type": "Party", "url": "https://www.instagram.com/p/DfB9NgVomB-/", "venue": "Filmbühne"},
+  {"id": "2026-10-31-velvet-halloween", "added": "2026-10-31", "date": "2026-10-31", "info": "Main Hall: Bekay · Retro: DJ Derby (90s/2000s/2010s) · Secret: Cru_House · VVK 10 € · ab 18", "source": "instagram", "time": "21:00", "title": "Halloween × Velvet Room", "type": "Party", "url": "https://www.instagram.com/p/De-TVP4ImwC/", "venue": "Velvet Room"},
+  {"id": "2026-10-31-ubar-halloween", "added": "2026-10-31", "date": "2026-10-31", "info": "Longdrink Tripledecker ab 9 € (Uhrzeit nicht angegeben)", "source": "instagram", "time": "", "title": "Halloween Party", "type": "Party", "url": "https://www.instagram.com/p/DfEO9yZInKT/", "venue": "UBar"},
+  {"id": "2026-10-31-zweigstelle-halloween", "added": "2026-10-31", "date": "2026-10-31", "info": "Laut Flyer ab 20 Uhr", "source": "instagram", "time": "20:00", "title": "Halloween Party", "type": "Party", "url": "https://www.instagram.com/p/DfAt4VxN1DU/", "venue": "Zweigstelle"},
+  {"id": "2026-10-31-flanni-halloween", "added": "2026-10-31", "date": "2026-10-31", "info": "Mit DJ · Spooky Drinks · im Kostüm Ghostbuster-Shot zur ersten Bestellung · Tischreservierung möglich", "source": "instagram", "time": "19:30", "title": "Flanniween", "type": "Party", "url": "https://www.instagram.com/p/DeW0Xe-MjvS/", "venue": "Flannigans"},
+  {"id": "2026-10-31-maxsbar-halloween", "added": "2026-10-31", "date": "2026-10-31", "info": "Flyer „31.10. Gruselzeit“, Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "Halloween – Gruselzeit", "type": "Party", "url": "https://www.instagram.com/p/DeZqoB1uCQh/", "venue": "Max's Bar"},
+  {"id": "2026-10-31-turmtheater-impro", "added": "2026-10-31", "date": "2026-10-31", "info": "Improvisiertes Theater nach Publikumswünschen", "source": "web", "time": "19:30", "title": "ImproTheater Chamäleon – Halloween Special", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/", "venue": "Turmtheater Regensburg"},
+  {"id": "2026-10-31-schottenportal-halloweenfuehrung", "added": "2026-10-31", "date": "2026-10-31", "info": "Stadtführung mit Geistergeschichten, mehrere Zeitslots bis 20:30", "source": "web", "time": "17:30", "title": "Halloween-Erlebnisführungen", "type": "Sonstiges", "url": "https://kalender.regensburg-digital.de/", "venue": "Schottenportal"},
+  {"id": "2026-11-03-escobar-quiz", "added": "2026-10-31", "date": "2026-11-03", "info": "Quizmaster-Abend, Anmeldung über Link in der Bio", "source": "instagram", "time": "19:30", "title": "Quizmaster x Escobar", "type": "Kneipe & Quiz", "url": "https://www.instagram.com/p/DfDRuL7oA9w/", "venue": "Escobar"},
+  {"id": "2026-11-05-malefiz-pubquiz", "added": "2026-10-31", "date": "2026-11-05", "info": "10 € Teilnahmegebühr pro Gruppe", "source": "instagram", "time": "", "title": "Pubquiz", "type": "Kneipe & Quiz", "url": "https://www.instagram.com/p/DfHVg_9CLbq/", "venue": "Café Malefiz"},
+  {"id": "2026-11-19-malefiz-musikbingo", "added": "2026-10-31", "date": "2026-11-19", "source": "instagram", "time": "", "title": "Musikbingo", "type": "Kneipe & Quiz", "url": "https://www.instagram.com/p/DfHVg_9CLbq/", "venue": "Café Malefiz"},
+  {"id": "2026-11-06-filmbuehne-loopschrauber", "added": "2026-10-31", "date": "2026-11-06", "info": "Funk · Disco · House", "source": "instagram", "time": "21:00", "title": "Loop Schrauber", "type": "Party", "url": "https://www.instagram.com/p/DfHWQBmBHTD/", "venue": "Filmbühne"},
+  {"id": "2026-11-06-velvet-youngwild", "added": "2026-10-31", "date": "2026-11-06", "info": "Neuer Termin · DJ Fabian Endter, Haqat & Cazal · ab 16 · erste 100 Gäste Desperados gratis · Verlosung", "source": "instagram", "time": "20:00", "title": "Young & Wild", "type": "Party", "url": "https://www.instagram.com/p/De7hpymsLjm/", "venue": "Velvet Room"},
+  {"id": "2026-11-08-tiki-diademuertos", "added": "2026-10-31", "date": "2026-11-08", "info": "Laut Flyer ab 12 Uhr", "source": "instagram", "time": "12:00", "title": "Día de los Muertos", "type": "Sonstiges", "url": "https://www.instagram.com/p/DfJ5Mt6Ity3/", "venue": "Tiki Beat"},
+  {"id": "2026-11-30-filmbuehne-taylorswift", "added": "2026-10-31", "date": "2026-11-30", "info": "Taylor Swift Night an jedem letzten Montag im Monat · Datum daraus abgeleitet", "source": "instagram", "time": "", "title": "Taylor Swift Night", "type": "Party", "url": "https://www.instagram.com/p/Derq6IvxLC6/", "venue": "Filmbühne"},
+  {"id": "2026-11-16-maelzerei-stickyfingers", "added": "2026-10-31", "date": "2026-11-16", "info": "Zeitgenössischer Tanz · ausverkauft", "source": "web", "time": "20:00", "title": "Sticky Fingers Club", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2026-12-06-maelzerei-klapptbestimmt", "added": "2026-10-31", "date": "2026-12-06", "info": "Inklusiver Tanz · kostenfrei", "source": "web", "time": "15:00", "title": "klapptbestimmt24", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-01-11-maelzerei-dota", "added": "2026-10-31", "date": "2027-01-11", "info": "Unplugged · VVK 45 €", "source": "web", "time": "20:00", "title": "Dota & Das Klitzekleine Orchester", "type": "Live", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-01-13-maelzerei-ganes", "added": "2026-10-31", "date": "2027-01-13", "info": "Weltmusik, Best-of-Programm · VVK 30 €", "source": "web", "time": "20:00", "title": "Ganes", "type": "Live", "url": "https://www.instagram.com/p/DfFKQvRFGl_/", "venue": "Alte Mälzerei"},
+  {"id": "2027-01-16-maelzerei-martinfrank", "added": "2026-10-31", "date": "2027-01-16", "info": "Kabarett · VVK 29 €", "source": "web", "time": "20:00", "title": "Martin Frank: Allegro Süd", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-01-16-maelzerei-sidecrush", "added": "2026-10-31", "date": "2027-01-16", "info": "Harmonic Post-Pop · kostenfrei", "source": "web", "time": "20:00", "title": "Side Crush", "type": "Live", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-01-28-maelzerei-tretter", "added": "2026-10-31", "date": "2027-01-28", "info": "Kabarett · VVK 25 €", "source": "web", "time": "20:00", "title": "Mathias Tretter: Nachgetrettert", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-02-02-maelzerei-kytes", "added": "2026-10-31", "date": "2027-02-02", "info": "Indie Rave · VVK 30 €", "source": "web", "time": "20:00", "title": "Kytes – Indie Rave Tour 2027", "type": "Live", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-02-18-maelzerei-fjort", "added": "2026-10-31", "date": "2027-02-18", "info": "Post-Hardcore · VVK 40 € · Late Night „15 Jahre auf Montage“ um 00:00 (VVK 15 €)", "source": "web", "time": "20:00", "title": "Fjørt", "type": "Live", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-02-19-maelzerei-skylinegreen", "added": "2026-10-31", "date": "2027-02-19", "info": "Ska/Latin, Benefizkonzert · VVK 22 €", "source": "web", "time": "20:00", "title": "Skyline Green – Lisae", "type": "Live", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-02-19-maelzerei-quixotix", "added": "2026-10-31", "date": "2027-02-19", "info": "Indie/Alternative · 10 €", "source": "web", "time": "20:00", "title": "Quixotix – Sonic Breakdown – Marek", "type": "Live", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-02-21-maelzerei-simonjan", "added": "2026-10-31", "date": "2027-02-21", "info": "Musik-Kabarett · VVK 26 €", "source": "web", "time": "19:00", "title": "Simon & Jan: Heiße Luft", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-02-25-maelzerei-silos", "added": "2026-10-31", "date": "2027-02-25", "info": "Indie/Alternative · VVK 22 €", "source": "web", "time": "20:00", "title": "The Silos", "type": "Live", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-03-11-maelzerei-bockhorst", "added": "2026-10-31", "date": "2027-03-11", "info": "Kabarett · VVK 22 €", "source": "web", "time": "20:00", "title": "Helene Bockhorst: Lebefrau", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-03-12-maelzerei-tramdesbalkans", "added": "2026-10-31", "date": "2027-03-12", "info": "Weltmusik · VVK 24 €", "source": "web", "time": "20:00", "title": "Tram des Balkans", "type": "Live", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-03-14-maelzerei-asuel", "added": "2026-10-31", "date": "2027-03-14", "info": "Kabarett · VVK 27 €", "source": "web", "time": "19:00", "title": "Django Asül: Am Ende Vorn", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-03-19-maelzerei-traenen", "added": "2026-10-31", "date": "2027-03-19", "info": "Indie · VVK 35 €", "source": "web", "time": "20:00", "title": "Tränen – Die Erde ist mein Traum Tour", "type": "Live", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-03-20-maelzerei-kinseher", "added": "2026-10-31", "date": "2027-03-20", "info": "Kabarett · VVK 28 €", "source": "web", "time": "20:00", "title": "Luise Kinseher: Mary from Bavary – Endlich Solo!", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-04-07-maelzerei-vonwagner", "added": "2026-10-31", "date": "2027-04-07", "info": "Kabarett · VVK 28 €", "source": "web", "time": "20:00", "title": "Claus von Wagner: Projekt Equilibrium", "type": "Kultur", "url": "https://www.instagram.com/p/De7AKEFAK5S/", "venue": "Alte Mälzerei"},
+  {"id": "2027-04-08-maelzerei-maeljonas", "added": "2026-10-31", "date": "2027-04-08", "info": "Indie-Pop, Halsschmerzen Tour 2027 · VVK 35 €", "source": "web", "time": "18:30", "title": "Mael & Jonas", "type": "Live", "url": "https://www.instagram.com/p/De3-o2PgE9t/", "venue": "Alte Mälzerei"},
+  {"id": "2027-04-16-maelzerei-reichl", "added": "2026-10-31", "date": "2027-04-16", "info": "Kabarett · VVK 26 €", "source": "web", "time": "19:30", "title": "Teresa Reichl: Grober Unfug", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-04-24-maelzerei-suchtpotenzial", "added": "2026-10-31", "date": "2027-04-24", "info": "Musik-Comedy · VVK 27 €", "source": "web", "time": "20:00", "title": "Suchtpotenzial: (S)Hitstorm", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-06-04-maelzerei-karlfaltermeier", "added": "2026-10-31", "date": "2027-06-04", "info": "Kabarett · VVK 28 €", "source": "web", "time": "19:30", "title": "Eva Karl Faltermeier: Ding Dong", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-09-18-maelzerei-neumeier", "added": "2026-10-31", "date": "2027-09-18", "info": "Kabarett/Comedy · VVK 32 €", "source": "web", "time": "19:00", "title": "Moritz Neumeier: Pur", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-10-05-maelzerei-bausch", "added": "2026-10-31", "date": "2027-10-05", "info": "True Crime · VVK 39 €", "source": "web", "time": "19:30", "title": "Joe Bausch: Bad or Mad?", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2027-11-07-maelzerei-hohl", "added": "2026-10-31", "date": "2027-11-07", "info": "Stand-up-Comedy · VVK 35 €", "source": "web", "time": "20:00", "title": "Moritz Hohl: Musst du wissen", "type": "Kultur", "url": "https://www.alte-maelzerei.de/de/prog.php", "venue": "Alte Mälzerei"},
+  {"id": "2026-11-05-donauarena-wahnsinn", "added": "2026-10-31", "date": "2026-11-05", "info": "Einlass 18:00 · ab 49,90 €", "source": "web", "time": "19:30", "title": "WAHNSINN – Die Show 2026", "type": "Kultur", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
+  {"id": "2026-11-15-donauarena-badnauheim", "added": "2026-10-31", "date": "2026-11-15", "info": "Eishockey-Heimspiel · Einlass 15:30", "source": "web", "time": "17:00", "title": "Eisbären Regensburg – EC Bad Nauheim", "type": "Sonstiges", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
+  {"id": "2026-11-17-donauarena-weiden", "added": "2026-10-31", "date": "2026-11-17", "info": "Eishockey-Heimspiel · Einlass 18:30", "source": "web", "time": "20:00", "title": "Eisbären Regensburg – Blue Devils Weiden", "type": "Sonstiges", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
+  {"id": "2026-11-19-donauarena-brugger", "added": "2026-10-31", "date": "2026-11-19", "info": "Comedy · Einlass 18:30 · ab 39 €", "source": "web", "time": "20:00", "title": "Hazel Brugger – Good Evening Europe", "type": "Kultur", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
+  {"id": "2026-11-21-donauarena-faaschtbaenkler", "added": "2026-10-31", "date": "2026-11-21", "info": "Comedy/Show · Einlass 18:30 · ab 49,90 €", "source": "web", "time": "20:30", "title": "Fäaschtbänkler", "type": "Kultur", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
+  {"id": "2026-11-22-donauarena-rosenheim", "added": "2026-10-31", "date": "2026-11-22", "info": "Eishockey-Heimspiel · Einlass 15:30", "source": "web", "time": "17:00", "title": "Eisbären Regensburg – Starbulls Rosenheim", "type": "Sonstiges", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
+  {"id": "2026-11-25-donauarena-santiano", "added": "2026-10-31", "date": "2026-11-25", "info": "Die große Arena Tour 2026 · ab 59,90 €", "source": "web", "time": "20:00", "title": "Santiano", "type": "Live", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
+  {"id": "2026-11-29-donauarena-dresden", "added": "2026-10-31", "date": "2026-11-29", "info": "Eishockey-Heimspiel · Einlass 15:30", "source": "web", "time": "17:00", "title": "Eisbären Regensburg – Dresdner Eislöwen", "type": "Sonstiges", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
+  {"id": "2026-12-05-donauarena-chormusical", "added": "2026-10-31", "date": "2026-12-05", "info": "Einlass 16:30 · ab 26,90 € (ermäßigt)", "source": "web", "time": "19:00", "title": "Chormusical Bethlehem", "type": "Kultur", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
+  {"id": "2026-12-06-donauarena-crimmitschau", "added": "2026-10-31", "date": "2026-12-06", "info": "Eishockey-Heimspiel · Einlass 15:30", "source": "web", "time": "17:00", "title": "Eisbären Regensburg – Eispiraten Crimmitschau", "type": "Sonstiges", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
+  {"id": "2026-12-13-donauarena-ravensburg", "added": "2026-10-31", "date": "2026-12-13", "info": "Eishockey-Heimspiel · Einlass 15:30", "source": "web", "time": "17:00", "title": "Eisbären Regensburg – Ravensburg Towerstars", "type": "Sonstiges", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"}
  ],
  "weekly": [
   {
@@ -1970,6 +2025,21 @@
    "title": "Nachtseminar",
    "venue": "ZAP",
    "weekday": 3
+  },
+  {
+   "id": "zweigstelle-di",
+   "info": "Karaoke „hard & heavy“",
+   "time": "20:00",
+   "title": "Karaoke Night",
+   "venue": "Zweigstelle",
+   "weekday": 2
+  },
+  {
+   "id": "zweigstelle-do",
+   "time": "20:00",
+   "title": "Karaoke Night",
+   "venue": "Zweigstelle",
+   "weekday": 4
   }
  ]
 }
