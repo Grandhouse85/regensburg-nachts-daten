@@ -1,8 +1,8 @@
 {
  "meta": {
   "lastRun": "2026-10-31",
-  "lastRunLabel": "Sa 31.10., 13:03",
-  "note": "Instagram: 57 von 58 Accounts gelesen (regensburg_nightlife: keine Posts gefunden). Web: Alte Mälzerei, Jazzclub, Degginger, Donau-Arena und Kalender abgerufen."
+  "lastRunLabel": "Sa 31.10., 17:46",
+  "note": "Instagram: 58 von 59 Accounts gelesen (regensburg_nightlife: keine Posts gefunden). Web: Alte Mälzerei, Jazzclub, Degginger, Donau-Arena und Kalender abgerufen."
  },
  "events": [
   {
@@ -570,7 +570,7 @@
    "id": "2026-11-13-maelzerei-chahin",
    "added": "2026-10-17",
    "date": "2026-11-13",
-   "info": "Stand-up-Comedy",
+   "info": "Stand-up-Comedy · Tour „Ehrenlos“ · 24 € VVK",
    "source": "web",
    "time": "20:00",
    "title": "Abdul Kader Chahin",
@@ -1945,7 +1945,13 @@
   {"id": "2026-11-29-donauarena-dresden", "added": "2026-10-31", "date": "2026-11-29", "info": "Eishockey-Heimspiel · Einlass 15:30", "source": "web", "time": "17:00", "title": "Eisbären Regensburg – Dresdner Eislöwen", "type": "Sonstiges", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
   {"id": "2026-12-05-donauarena-chormusical", "added": "2026-10-31", "date": "2026-12-05", "info": "Einlass 16:30 · ab 26,90 € (ermäßigt)", "source": "web", "time": "19:00", "title": "Chormusical Bethlehem", "type": "Kultur", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
   {"id": "2026-12-06-donauarena-crimmitschau", "added": "2026-10-31", "date": "2026-12-06", "info": "Eishockey-Heimspiel · Einlass 15:30", "source": "web", "time": "17:00", "title": "Eisbären Regensburg – Eispiraten Crimmitschau", "type": "Sonstiges", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
-  {"id": "2026-12-13-donauarena-ravensburg", "added": "2026-10-31", "date": "2026-12-13", "info": "Eishockey-Heimspiel · Einlass 15:30", "source": "web", "time": "17:00", "title": "Eisbären Regensburg – Ravensburg Towerstars", "type": "Sonstiges", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"}
+  {"id": "2026-12-13-donauarena-ravensburg", "added": "2026-10-31", "date": "2026-12-13", "info": "Eishockey-Heimspiel · Einlass 15:30", "source": "web", "time": "17:00", "title": "Eisbären Regensburg – Ravensburg Towerstars", "type": "Sonstiges", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
+  {"id": "2026-10-31-lou-russiannight", "added": "2026-10-31", "date": "2026-10-31", "info": "Main Room DJ Andy, Retro Room DJ Lame · Special Guest Einfach Wowa · Einlass 22:00 · Early Bird 7 €, VVK 10 €, AK 15 € · ab 18", "source": "instagram", "time": "22:00", "title": "Russian Night × Halloween Edition", "type": "Party", "url": "https://www.instagram.com/p/De86Ek5oHi3/", "venue": "LOU"},
+  {"id": "2026-11-14-lou-ue30", "added": "2026-10-31", "date": "2026-11-14", "info": "Main Floor DJ Mack (80er/90er/2000er) · White Room DJ Tom Carlson (Latino & Black Classics)", "source": "instagram", "time": "22:00", "title": "Ü30 Party", "type": "Party", "url": "https://www.instagram.com/p/DeiyuAJCqvx/", "venue": "LOU"},
+  {"id": "2026-11-20-lou-flowfest", "added": "2026-10-31", "date": "2026-11-20", "info": "Anniversary Edition · Einlass 20:00, Latin-Workshop 20:30, Latinofonia live 21:30, DJ El Tigre, DJ Chiko, DJ Max", "source": "instagram", "time": "20:00", "title": "Flow Fest – Anniversary Edition", "type": "Party", "url": "https://www.instagram.com/p/De1-L6Ct33q/", "venue": "LOU"},
+  {"id": "2026-12-18-lou-austropop", "added": "2026-10-31", "date": "2026-12-18", "info": "Warm-up ab 20 Uhr im Di Nero Wintergarden mit Welcome Shots, Party ab 21 Uhr im LOU", "source": "instagram", "time": "21:00", "title": "Austropop Party", "type": "Party", "url": "https://www.instagram.com/p/Dei7UePCg-w/", "venue": "LOU"},
+  {"id": "2026-12-19-lou-happiness", "added": "2026-10-31", "date": "2026-12-19", "info": "Queere Weihnachtsparty mit Lanzy Roid · Happiness by Candylicious · Einlass ab 22 Uhr", "source": "instagram", "time": "22:00", "title": "Happiness – queere Weihnachtsparty", "type": "Party", "url": "https://www.instagram.com/p/Dew6E5HiUcS/", "venue": "LOU"},
+  {"id": "2026-10-31-filmgalerie-queensofthedead", "added": "2026-10-31", "date": "2026-10-31", "source": "web", "time": "21:00", "title": "Queens of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/", "venue": "filmgalerie im Leeren Beutel"}
  ],
  "weekly": [
   {
