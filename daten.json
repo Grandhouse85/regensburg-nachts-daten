@@ -1,22 +1,10 @@
 {
  "meta": {
-  "lastRun": "2026-10-31",
-  "lastRunLabel": "Sa 31.10., 17:46",
+  "lastRun": "2026-11-01",
+  "lastRunLabel": "So 01.11., 17:49",
   "note": "Instagram: 58 von 59 Accounts gelesen (regensburg_nightlife: keine Posts gefunden). Web: Alte Mälzerei, Jazzclub, Degginger, Donau-Arena und Kalender abgerufen."
  },
  "events": [
-  {
-   "id": "2026-10-28-gaffel-pokal",
-   "added": "2026-10-27",
-   "date": "2026-10-28",
-   "info": "18:00 Konferenz + Einzelspiel · 20:45 Konferenz, Bayern : Magdeburg",
-   "source": "instagram",
-   "time": "18:00",
-   "title": "DFB-Pokal: Konferenz + Bayern : Magdeburg",
-   "type": "Kneipe & Quiz",
-   "url": "https://www.instagram.com/p/De8kwUijICR/",
-   "venue": "Olle Gaffel"
-  },
   {
    "id": "2026-10-29-gaffel-quiz",
    "added": "2026-10-16",
@@ -1951,7 +1939,12 @@
   {"id": "2026-11-20-lou-flowfest", "added": "2026-10-31", "date": "2026-11-20", "info": "Anniversary Edition · Einlass 20:00, Latin-Workshop 20:30, Latinofonia live 21:30, DJ El Tigre, DJ Chiko, DJ Max", "source": "instagram", "time": "20:00", "title": "Flow Fest – Anniversary Edition", "type": "Party", "url": "https://www.instagram.com/p/De1-L6Ct33q/", "venue": "LOU"},
   {"id": "2026-12-18-lou-austropop", "added": "2026-10-31", "date": "2026-12-18", "info": "Warm-up ab 20 Uhr im Di Nero Wintergarden mit Welcome Shots, Party ab 21 Uhr im LOU", "source": "instagram", "time": "21:00", "title": "Austropop Party", "type": "Party", "url": "https://www.instagram.com/p/Dei7UePCg-w/", "venue": "LOU"},
   {"id": "2026-12-19-lou-happiness", "added": "2026-10-31", "date": "2026-12-19", "info": "Queere Weihnachtsparty mit Lanzy Roid · Happiness by Candylicious · Einlass ab 22 Uhr", "source": "instagram", "time": "22:00", "title": "Happiness – queere Weihnachtsparty", "type": "Party", "url": "https://www.instagram.com/p/Dew6E5HiUcS/", "venue": "LOU"},
-  {"id": "2026-10-31-filmgalerie-queensofthedead", "added": "2026-10-31", "date": "2026-10-31", "source": "web", "time": "21:00", "title": "Queens of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/", "venue": "filmgalerie im Leeren Beutel"}
+  {"id": "2026-10-31-filmgalerie-queensofthedead", "added": "2026-10-31", "date": "2026-10-31", "source": "web", "time": "21:00", "title": "Queens of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/", "venue": "filmgalerie im Leeren Beutel"},
+  {"id": "2026-11-06-scala-ladiesnight", "added": "2026-11-01", "date": "2026-11-06", "info": "Bis 00:00 Uhr Eintritt frei für Ladies + ein offenes Getränk gratis · Latin, House, Hip Hop, Charts", "source": "instagram", "time": "23:00", "title": "Ladies Night", "type": "Party", "url": "https://www.instagram.com/p/DfMkR5okS5I/", "venue": "Scala (Pustetpassage)"},
+  {"id": "2026-11-07-scala-ue30", "added": "2026-11-01", "date": "2026-11-07", "info": "Aperol Spritz 5 € · beste Partymusik", "source": "instagram", "time": "23:00", "title": "Ü30 Party", "type": "Party", "url": "https://www.instagram.com/p/DfMqvgjR5R4/", "venue": "Scala (Pustetpassage)"},
+  {"id": "2026-11-07-spitalgarten-fruehschoppen", "added": "2026-11-01", "date": "2026-11-07", "info": "Weißwurstfrühschoppen mit den WIRTSHAUS_TÖNEN (Matthias Pürner & Musikanten aus dem Alpenraum)", "source": "instagram", "time": "11:30", "title": "Weißwurstfrühschoppen", "type": "Live", "url": "https://www.instagram.com/p/DfKp_0piHEC/", "venue": "Spitalgarten"},
+  {"id": "2026-11-13-ka5per-hi04", "added": "2026-11-01", "date": "2026-11-13", "info": "Kleiner Raum, 100 Gäste, Vorverkauf über Eventfrog · Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "hi! #04 – built by friends", "type": "Party", "url": "https://www.instagram.com/p/DfMkojlDTtg/", "venue": "Ka5per"},
+  {"id": "2026-12-18-donauarena-freiburg", "added": "2026-11-01", "date": "2026-12-18", "info": "Eishockey-Heimspiel", "source": "web", "time": "20:00", "title": "Eisbären Regensburg – EHC Freiburg", "type": "Sonstiges", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"}
  ],
  "weekly": [
   {
