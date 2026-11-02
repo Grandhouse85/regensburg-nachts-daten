@@ -1,78 +1,10 @@
 {
  "meta": {
-  "lastRun": "2026-11-01",
-  "lastRunLabel": "So 01.11., 17:49",
-  "note": "Instagram: 58 von 59 Accounts gelesen (regensburg_nightlife: keine Posts gefunden). Web: Alte Mälzerei, Jazzclub, Degginger, Donau-Arena und Kalender abgerufen."
+  "lastRun": "2026-11-02",
+  "lastRunLabel": "Mo 02.11., 17:47",
+  "note": "Instagram: 58 von 59 Accounts gelesen, mit Fehlern (regensburg_nightlife: keine Posts gefunden). Web: Alte Mälzerei, Jazzclub, Degginger, Donau-Arena und Kalender abgerufen."
  },
  "events": [
-  {
-   "id": "2026-10-29-gaffel-quiz",
-   "added": "2026-10-16",
-   "date": "2026-10-29",
-   "info": "Verkleidete Teams bekommen einen Extrapunkt, keine Reservierung",
-   "source": "instagram",
-   "title": "Kneipenquiz – Halloween Edition",
-   "type": "Kneipe & Quiz",
-   "url": "https://www.instagram.com/p/DecgmCCgHMh/",
-   "venue": "Olle Gaffel"
-  },
-  {
-   "id": "2026-10-29-heart-girlsonly",
-   "added": "2026-10-25",
-   "date": "2026-10-29",
-   "info": "20–24 Uhr nur für Frauen, danach für alle · 2000er, Club Hits, Pop, House by Beatmung · ab 24 Uhr Thrsdy Crcl mit Getränkespecials",
-   "source": "instagram",
-   "time": "20:00",
-   "title": "Girls Only Party – mit Girls Community Regensburg",
-   "type": "Party",
-   "url": "https://www.instagram.com/p/DeKGiQQxWn4/",
-   "venue": "Heart"
-  },
-  {
-   "id": "2026-10-29-jazzclub-miles",
-   "added": "2026-10-16",
-   "date": "2026-10-29",
-   "source": "web",
-   "time": "20:00",
-   "title": "Miles Davis – John Coltrane Centennial",
-   "type": "Live",
-   "url": "https://www.jazzclub-regensburg.de/programm/programmvorschau",
-   "venue": "Jazzclub im Leeren Beutel"
-  },
-  {
-   "id": "2026-10-29-maelzerei-ersti",
-   "added": "2026-10-16",
-   "date": "2026-10-29",
-   "info": "Rap · Konzert mit tiamocharlize & bellabazz · Vorglühen ab 17 Uhr im Mono",
-   "source": "web",
-   "time": "19:00",
-   "title": "Jägermeister Ersti Sessions",
-   "type": "Live",
-   "url": "https://www.alte-maelzerei.de/de/prog.php",
-   "venue": "Alte Mälzerei"
-  },
-  {
-   "id": "2026-10-29-mono-vorgluehen",
-   "added": "2026-10-29",
-   "date": "2026-10-29",
-   "info": "Aperol Spritz & Gin Tonic 6,20 €, Jägermeister-Shots gratis · danach gemeinsam zu den Jägermeister Ersti Sessions in der Alten Mälzerei",
-   "source": "instagram",
-   "time": "17:00",
-   "title": "Vorglühen Ersti Sessions",
-   "type": "Party",
-   "url": "https://www.instagram.com/p/DfDBlb8jG0u/",
-   "venue": "Mono"
-  },
-  {
-   "id": "2026-10-29-roterhahn-afterwork",
-   "added": "2026-10-16",
-   "date": "2026-10-29",
-   "source": "instagram",
-   "title": "After Work 3.0 mit 4-Gänge-Menü",
-   "type": "After Work",
-   "url": "https://www.instagram.com/p/DeUjC2aCMsN/",
-   "venue": "Roter Hahn"
-  },
   {
    "id": "2026-10-30-cc2-tristarc",
    "added": "2026-10-27",
@@ -711,7 +643,7 @@
    "date": "2026-11-19",
    "info": "Sharp Elektro Pop",
    "source": "web",
-   "time": "20:00",
+   "time": "20:30",
    "title": "Fliegende Haie",
    "type": "Live",
    "url": "https://www.alte-maelzerei.de/de/prog.php",
@@ -1944,7 +1876,23 @@
   {"id": "2026-11-07-scala-ue30", "added": "2026-11-01", "date": "2026-11-07", "info": "Aperol Spritz 5 € · beste Partymusik", "source": "instagram", "time": "23:00", "title": "Ü30 Party", "type": "Party", "url": "https://www.instagram.com/p/DfMqvgjR5R4/", "venue": "Scala (Pustetpassage)"},
   {"id": "2026-11-07-spitalgarten-fruehschoppen", "added": "2026-11-01", "date": "2026-11-07", "info": "Weißwurstfrühschoppen mit den WIRTSHAUS_TÖNEN (Matthias Pürner & Musikanten aus dem Alpenraum)", "source": "instagram", "time": "11:30", "title": "Weißwurstfrühschoppen", "type": "Live", "url": "https://www.instagram.com/p/DfKp_0piHEC/", "venue": "Spitalgarten"},
   {"id": "2026-11-13-ka5per-hi04", "added": "2026-11-01", "date": "2026-11-13", "info": "Kleiner Raum, 100 Gäste, Vorverkauf über Eventfrog · Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "hi! #04 – built by friends", "type": "Party", "url": "https://www.instagram.com/p/DfMkojlDTtg/", "venue": "Ka5per"},
-  {"id": "2026-12-18-donauarena-freiburg", "added": "2026-11-01", "date": "2026-12-18", "info": "Eishockey-Heimspiel", "source": "web", "time": "20:00", "title": "Eisbären Regensburg – EHC Freiburg", "type": "Sonstiges", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"}
+  {"id": "2026-12-18-donauarena-freiburg", "added": "2026-11-01", "date": "2026-12-18", "info": "Eishockey-Heimspiel", "source": "web", "time": "20:00", "title": "Eisbären Regensburg – EHC Freiburg", "type": "Sonstiges", "url": "https://www.das-stadtwerk-regensburg.de/donau-arena/veranstaltungen/termine", "venue": "Donau-Arena"},
+  {"id": "2026-11-03-gaffel-cl", "added": "2026-11-02", "date": "2026-11-03", "info": "18:45 Galatasaray : Stuttgart · 18:45 Schachtar : Lissabon · 21:00 Atlético : Bayern", "source": "instagram", "time": "18:45", "title": "Champions League: Galatasaray : Stuttgart, Schachtar : Lissabon, Atlético : Bayern", "type": "Kneipe & Quiz", "url": "https://www.instagram.com/p/DfOhwRiiuIo/", "venue": "Olle Gaffel"},
+  {"id": "2026-11-04-gaffel-cl", "added": "2026-11-02", "date": "2026-11-04", "info": "18:45 Athen : Real Madrid · 18:45 Fenerbahce : Liverpool · 21:00 Leipzig : Man City · 21:00 Dortmund : Sevilla", "source": "instagram", "time": "18:45", "title": "Champions League: Athen : Real Madrid, Fenerbahce : Liverpool, Leipzig : Man City, Dortmund : Sevilla", "type": "Kneipe & Quiz", "url": "https://www.instagram.com/p/DfOhwRiiuIo/", "venue": "Olle Gaffel"},
+  {"id": "2026-11-05-gaffel-el", "added": "2026-11-02", "date": "2026-11-05", "info": "18:45 Crystal Palace : Hoffenheim · 21:00 Leverkusen : Marseille", "source": "instagram", "time": "18:45", "title": "Europa League: Crystal Palace : Hoffenheim, Leverkusen : Marseille", "type": "Kneipe & Quiz", "url": "https://www.instagram.com/p/DfOhwRiiuIo/", "venue": "Olle Gaffel"},
+  {"id": "2026-11-30-gaffel-magic", "added": "2026-11-02", "date": "2026-11-30", "info": "Laut Monatsflyer „Gaffel Events im November“, Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "Magic The Gathering", "type": "Sonstiges", "url": "https://www.instagram.com/p/DfNU2t_AYJL/", "venue": "Olle Gaffel"},
+  {"id": "2026-11-28-palletti-houserunde", "added": "2026-11-02", "date": "2026-11-28", "info": "22:00–02:30 · d.one & Robert Rizzi, nur Vinyl · Datum laut Flyer", "source": "instagram", "time": "22:00", "title": "House Runde Vol. 2 – Strictly Vinyl", "type": "Party", "url": "https://www.instagram.com/p/DfNXt4xKPLg/", "venue": "Palletti"},
+  {"id": "2026-11-06-angels-party", "added": "2026-11-02", "date": "2026-11-06", "info": "Datum aus Gewinnspiel-Post („nächste Party am 06.11.“), Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "Party (mit Hood of Hip Hop)", "type": "Party", "url": "https://www.instagram.com/p/DfNRsZLMoey/", "venue": "Angels Club"},
+  {"id": "2026-11-06-velvet-fabulousfriday", "added": "2026-11-02", "date": "2026-11-06", "info": "Main Hall: Hip-Hop/R’n’B/Afro mit Rapcatt & TM 6 · Retro: DJ Switch (90er–2010er) · ab 18", "source": "instagram", "time": "23:00", "title": "Fabulous Friday", "type": "Party", "url": "https://www.instagram.com/p/DfNL80iiC1M/", "venue": "Velvet Room"},
+  {"id": "2026-11-14-filmbuehne-disconight", "added": "2026-11-02", "date": "2026-11-14", "info": "Disco-Sound & 80er mit Christoph Prange & Ferdi Winter · Eintritt frei", "source": "instagram", "time": "21:00", "title": "Disco Night", "type": "Party", "url": "https://www.instagram.com/p/DfNQvoQjUPy/", "venue": "Filmbühne"},
+  {"id": "2026-11-13-zap-regensburgtanzt", "added": "2026-11-02", "date": "2026-11-13", "info": "Laut ZAP-Novemberprogramm, Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "Regensburg tanzt", "type": "Party", "url": "https://www.instagram.com/p/DfNOEFFjJIZ/", "venue": "ZAP"},
+  {"id": "2026-11-20-zap-fetenhits", "added": "2026-11-02", "date": "2026-11-20", "info": "Laut ZAP-Novemberprogramm, Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "Fetenhits auf Anschlag", "type": "Party", "url": "https://www.instagram.com/p/DfNOEFFjJIZ/", "venue": "ZAP"},
+  {"id": "2026-11-27-zap-8090", "added": "2026-11-02", "date": "2026-11-27", "info": "Laut ZAP-Novemberprogramm, Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "80/90er Party", "type": "Party", "url": "https://www.instagram.com/p/DfNOEFFjJIZ/", "venue": "ZAP"},
+  {"id": "2026-11-28-zap-apresski", "added": "2026-11-02", "date": "2026-11-28", "info": "Laut ZAP-Novemberprogramm, Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "Après-Ski Party", "type": "Party", "url": "https://www.instagram.com/p/DfNOEFFjJIZ/", "venue": "ZAP"},
+  {"id": "2026-11-24-degginger-netzwerk", "added": "2026-11-02", "date": "2026-11-24", "info": "Networking-Treffen", "source": "web", "time": "", "title": "Netzwerkdienstag der Kreativen", "type": "Sonstiges", "url": "https://www.degginger.de/programm", "venue": "Degginger"},
+  {"id": "2026-11-02-filmgalerie-queens", "added": "2026-11-02", "date": "2026-11-02", "info": "Film", "source": "web", "time": "19:00", "title": "Queens of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/queens-of-the-dead/2026-11-02/", "venue": "filmgalerie im Leeren Beutel"},
+  {"id": "2026-11-02-filmgalerie-zombie2", "added": "2026-11-02", "date": "2026-11-02", "info": "Film", "source": "web", "time": "21:00", "title": "Zombie 2 – Day of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/zombie-2-day-of-the-dead/2026-11-02/", "venue": "filmgalerie im Leeren Beutel"},
+  {"id": "2026-11-03-filmgalerie-queens", "added": "2026-11-02", "date": "2026-11-03", "info": "Film", "source": "web", "time": "19:00", "title": "Queens of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/queens-of-the-dead/2026-11-03/", "venue": "filmgalerie im Leeren Beutel"}
  ],
  "weekly": [
   {
@@ -2024,6 +1972,13 @@
    "title": "Nachtseminar",
    "venue": "ZAP",
    "weekday": 3
+  },
+  {
+   "id": "zap-sa",
+   "info": "Laut ZAP-Novemberprogramm",
+   "title": "ZAP! SATURDAY",
+   "venue": "ZAP",
+   "weekday": 6
   },
   {
    "id": "zweigstelle-di",
