@@ -1,105 +1,10 @@
 {
  "meta": {
-  "lastRun": "2026-11-02",
-  "lastRunLabel": "Mo 02.11., 17:47",
+  "lastRun": "2026-11-03",
+  "lastRunLabel": "Di 03.11., 17:45",
   "note": "Instagram: 58 von 59 Accounts gelesen, mit Fehlern (regensburg_nightlife: keine Posts gefunden). Web: Alte Mälzerei, Jazzclub, Degginger, Donau-Arena und Kalender abgerufen."
  },
  "events": [
-  {
-   "id": "2026-10-30-cc2-tristarc",
-   "added": "2026-10-27",
-   "date": "2026-10-30",
-   "info": "Hardtechno / Schranz / Bounce / Bochka · AK 13 €",
-   "source": "instagram",
-   "time": "23:59",
-   "title": "Tristarc × Club Czerny",
-   "type": "Party",
-   "url": "https://www.instagram.com/p/DeguhUDN-1l/",
-   "venue": "Club Czerny (CC2)"
-  },
-  {
-   "id": "2026-10-30-erobique",
-   "added": "2026-10-16",
-   "date": "2026-10-30",
-   "info": "Disco / Electro · ausverkauft",
-   "source": "web",
-   "time": "20:00",
-   "title": "Erobique",
-   "type": "Live",
-   "url": "https://kalender.regensburg-digital.de/veranstaltung/erobique/",
-   "venue": "Leerer Beutel (verlegt von Alte Mälzerei)"
-  },
-  {
-   "id": "2026-10-30-gaffel-fussballfreitag",
-   "added": "2026-10-27",
-   "date": "2026-10-30",
-   "info": "18:30 Konferenz 2. Buli · 20:30 Elversberg : Mainz",
-   "source": "instagram",
-   "time": "18:30",
-   "title": "Fußball-Freitag: Konferenz 2. Buli, Elversberg : Mainz",
-   "type": "Kneipe & Quiz",
-   "url": "https://www.instagram.com/p/De8kwUijICR/",
-   "venue": "Olle Gaffel"
-  },
-  {
-   "id": "2026-10-30-heart-fanji",
-   "added": "2026-10-16",
-   "date": "2026-10-30",
-   "info": "Main Floor Hip-Hop/Rap/EDM, Second Floor 2000er · AK 10 € · ab 16 · anschließend Studis Halloween Party w/ Angels Club (DJ Marco S)",
-   "source": "instagram",
-   "time": "20:00",
-   "title": "FANJI Live-Clubshow – FFD Halloween Edition",
-   "type": "Party",
-   "url": "https://www.instagram.com/p/DecR3c0NHSv/",
-   "venue": "Heart"
-  },
-  {
-   "id": "2026-10-30-kosmo-perreo",
-   "added": "2026-10-23",
-   "date": "2026-10-30",
-   "info": "Reggaeton, Latin, Perreo · Kostümwettbewerb · Free Black Kosmo Shot im Kostüm",
-   "source": "instagram",
-   "title": "Noche de Perreo y Terror – Halloween",
-   "type": "Party",
-   "url": "https://www.instagram.com/p/De1MwstuQ4S/",
-   "venue": "Kosmonaut"
-  },
-  {
-   "id": "2026-10-30-maelzerei-teccno",
-   "added": "2026-10-16",
-   "date": "2026-10-30",
-   "info": "Hardbounce, DnB, Tekk · AK 10 € · ab 18 · Vorverkauf über Eventfrog",
-   "source": "instagram",
-   "time": "22:00",
-   "title": "Teccno Modulation – Hell-O-Ween Special",
-   "type": "Party",
-   "url": "https://eventfrog.de/de/p/partys/house-techno/teccno-modulation-halloween-7416801149871720771.html",
-   "venue": "Alte Mälzerei"
-  },
-  {
-   "id": "2026-10-30-scala-nightbeforehalloween",
-   "added": "2026-10-28",
-   "date": "2026-10-30",
-   "info": "DJ Tom Carlson · Hits der 80er & 90er",
-   "source": "instagram",
-   "time": "23:00",
-   "title": "The Night Before Halloween – 80er & 90er",
-   "type": "Party",
-   "url": "https://www.instagram.com/p/DfCqETssjw-/",
-   "venue": "Scala (Pustetpassage)"
-  },
-  {
-   "id": "2026-10-30-zap-halloween-single",
-   "added": "2026-10-16",
-   "date": "2026-10-30",
-   "info": "mit DJ Maxx",
-   "source": "instagram",
-   "time": "22:00",
-   "title": "Halloween Single Night",
-   "type": "Party",
-   "url": "https://www.instagram.com/p/De9xM3wDMM6/",
-   "venue": "ZAP"
-  },
   {
    "id": "2026-10-31-0941-47nights",
    "added": "2026-10-21",
@@ -630,9 +535,10 @@
    "id": "2026-11-19-maelzerei-doppelhammer",
    "added": "2026-10-20",
    "date": "2026-11-19",
+   "info": "Laut Programm der Alte Mälzerei abgesagt",
    "source": "web",
    "time": "20:00",
-   "title": "Fonse Doppelhammer: „Zum Jammern glangt's no ned!“",
+   "title": "ABGESAGT: Fonse Doppelhammer: „Zum Jammern glangt's no ned!“",
    "type": "Live",
    "url": "https://www.alte-maelzerei.de/de/prog.php",
    "venue": "Alte Mälzerei"
@@ -1882,7 +1788,7 @@
   {"id": "2026-11-05-gaffel-el", "added": "2026-11-02", "date": "2026-11-05", "info": "18:45 Crystal Palace : Hoffenheim · 21:00 Leverkusen : Marseille", "source": "instagram", "time": "18:45", "title": "Europa League: Crystal Palace : Hoffenheim, Leverkusen : Marseille", "type": "Kneipe & Quiz", "url": "https://www.instagram.com/p/DfOhwRiiuIo/", "venue": "Olle Gaffel"},
   {"id": "2026-11-30-gaffel-magic", "added": "2026-11-02", "date": "2026-11-30", "info": "Laut Monatsflyer „Gaffel Events im November“, Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "Magic The Gathering", "type": "Sonstiges", "url": "https://www.instagram.com/p/DfNU2t_AYJL/", "venue": "Olle Gaffel"},
   {"id": "2026-11-28-palletti-houserunde", "added": "2026-11-02", "date": "2026-11-28", "info": "22:00–02:30 · d.one & Robert Rizzi, nur Vinyl · Datum laut Flyer", "source": "instagram", "time": "22:00", "title": "House Runde Vol. 2 – Strictly Vinyl", "type": "Party", "url": "https://www.instagram.com/p/DfNXt4xKPLg/", "venue": "Palletti"},
-  {"id": "2026-11-06-angels-party", "added": "2026-11-02", "date": "2026-11-06", "info": "Datum aus Gewinnspiel-Post („nächste Party am 06.11.“), Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "Party (mit Hood of Hip Hop)", "type": "Party", "url": "https://www.instagram.com/p/DfNRsZLMoey/", "venue": "Angels Club"},
+  {"id": "2026-11-06-angels-party", "added": "2026-11-02", "date": "2026-11-06", "info": "Sounds by Liketeezy (UK), Denny Huncho, Yannick McCartney · Datum aus Post „diesen Freitag“ (gepostet Mo 02.11.) abgeleitet, Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "Turn Up Week (Hood of Hip Hop)", "type": "Party", "url": "https://www.instagram.com/p/DfP0ibnMrQn/", "venue": "Angels Club"},
   {"id": "2026-11-06-velvet-fabulousfriday", "added": "2026-11-02", "date": "2026-11-06", "info": "Main Hall: Hip-Hop/R’n’B/Afro mit Rapcatt & TM 6 · Retro: DJ Switch (90er–2010er) · ab 18", "source": "instagram", "time": "23:00", "title": "Fabulous Friday", "type": "Party", "url": "https://www.instagram.com/p/DfNL80iiC1M/", "venue": "Velvet Room"},
   {"id": "2026-11-14-filmbuehne-disconight", "added": "2026-11-02", "date": "2026-11-14", "info": "Disco-Sound & 80er mit Christoph Prange & Ferdi Winter · Eintritt frei", "source": "instagram", "time": "21:00", "title": "Disco Night", "type": "Party", "url": "https://www.instagram.com/p/DfNQvoQjUPy/", "venue": "Filmbühne"},
   {"id": "2026-11-13-zap-regensburgtanzt", "added": "2026-11-02", "date": "2026-11-13", "info": "Laut ZAP-Novemberprogramm, Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "Regensburg tanzt", "type": "Party", "url": "https://www.instagram.com/p/DfNOEFFjJIZ/", "venue": "ZAP"},
@@ -1892,7 +1798,14 @@
   {"id": "2026-11-24-degginger-netzwerk", "added": "2026-11-02", "date": "2026-11-24", "info": "Networking-Treffen", "source": "web", "time": "", "title": "Netzwerkdienstag der Kreativen", "type": "Sonstiges", "url": "https://www.degginger.de/programm", "venue": "Degginger"},
   {"id": "2026-11-02-filmgalerie-queens", "added": "2026-11-02", "date": "2026-11-02", "info": "Film", "source": "web", "time": "19:00", "title": "Queens of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/queens-of-the-dead/2026-11-02/", "venue": "filmgalerie im Leeren Beutel"},
   {"id": "2026-11-02-filmgalerie-zombie2", "added": "2026-11-02", "date": "2026-11-02", "info": "Film", "source": "web", "time": "21:00", "title": "Zombie 2 – Day of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/zombie-2-day-of-the-dead/2026-11-02/", "venue": "filmgalerie im Leeren Beutel"},
-  {"id": "2026-11-03-filmgalerie-queens", "added": "2026-11-02", "date": "2026-11-03", "info": "Film", "source": "web", "time": "19:00", "title": "Queens of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/queens-of-the-dead/2026-11-03/", "venue": "filmgalerie im Leeren Beutel"}
+  {"id": "2026-11-03-filmgalerie-queens", "added": "2026-11-02", "date": "2026-11-03", "info": "Film", "source": "web", "time": "19:00", "title": "Queens of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/queens-of-the-dead/2026-11-03/", "venue": "filmgalerie im Leeren Beutel"},
+  {"id": "2026-11-03-filmgalerie-zombie2", "added": "2026-11-03", "date": "2026-11-03", "info": "Film · Romeros Klassiker, erstmals uncut im Kino", "source": "web", "time": "21:00", "title": "Zombie 2 – Day of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/zombie-2-day-of-the-dead/2026-11-03/", "venue": "filmgalerie im Leeren Beutel"},
+  {"id": "2026-11-07-velvet-sweetsaturday", "added": "2026-11-03", "date": "2026-11-07", "info": "Main Hall: Hip-Hop/Mixed (DJ Bekay) · Retro: 90s–2010s (DJ Mabo) · Secret Club: Latino (DJ Ale) · ab 18 · AK 10 €", "source": "instagram", "time": "23:00", "title": "Sweet Saturday", "type": "Party", "url": "https://www.instagram.com/p/DfRccUORzUW/", "venue": "Velvet Room"},
+  {"id": "2026-11-06-zap-2000er2010er", "added": "2026-11-03", "date": "2026-11-06", "info": "mit DJ Maxx · Discoschorle 6,80 €", "source": "instagram", "time": "", "title": "2000/2010er Hits", "type": "Party", "url": "https://www.instagram.com/p/DfPy2MmjNbz/", "venue": "ZAP"},
+  {"id": "2026-11-07-zap-saturday", "added": "2026-11-03", "date": "2026-11-07", "info": "mit DJ Robben", "source": "instagram", "time": "", "title": "ZAP! Saturday", "type": "Party", "url": "https://www.instagram.com/p/DfPy2MmjNbz/", "venue": "ZAP"},
+  {"id": "2026-11-17-scala-fosbos", "added": "2026-11-03", "date": "2026-11-17", "info": "Hip-Hop, RnB, Clubmusic · ab 16 (U18 bis 00:00 mit Muttizettel) · VVK 6 €, AK 10 €", "source": "instagram", "time": "20:30", "title": "FOS BOS Party", "type": "Party", "url": "https://www.instagram.com/p/DfRkSvJEcMF/", "venue": "Scala (Pustetpassage)"},
+  {"id": "2026-11-27-heart-voltagevoyage", "added": "2026-11-03", "date": "2026-11-27", "info": "Techno/Rave · 7 DJs · Function-One-Anlage · Tickets über Link in der Bio", "source": "instagram", "time": "23:00", "title": "Voltage Voyage", "type": "Party", "url": "https://www.instagram.com/p/DfST64FsWSJ/", "venue": "Heart"},
+  {"id": "2026-11-10-thondittmer-kulturbeirat", "added": "2026-11-03", "date": "2026-11-10", "info": "Für Regensburger Kulturakteur*innen · Einlass 17:30 · Anmeldung per E-Mail an kultur@regensburg.de", "source": "instagram", "time": "18:00", "title": "Infoveranstaltung Kulturbeirat / freier Kulturrat", "type": "Sonstiges", "url": "https://www.instagram.com/p/DfHw7iZtR7F/", "venue": "Thon-Dittmer-Palais (Auditorium)"}
  ],
  "weekly": [
   {
