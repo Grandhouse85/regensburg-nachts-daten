@@ -1,22 +1,10 @@
 {
  "meta": {
-  "lastRun": "2026-11-05",
-  "lastRunLabel": "Do 05.11., 17:46",
+  "lastRun": "2026-11-06",
+  "lastRunLabel": "Fr 06.11., 17:46",
   "note": "Instagram: 58 von 59 Accounts gelesen, mit Fehlern (regensburg_nightlife: keine Posts gefunden). Web: Alte Mälzerei, Jazzclub, Degginger, Donau-Arena und Kalender abgerufen."
  },
  "events": [
-  {
-   "id": "2026-11-02-jazzclub-session",
-   "added": "2026-10-16",
-   "date": "2026-11-02",
-   "info": "Ostap Konashuk Quartet · Eintritt frei",
-   "source": "web",
-   "time": "20:00",
-   "title": "Session im Leeren Beutel",
-   "type": "Live",
-   "url": "https://www.jazzclub-regensburg.de/programm/programmvorschau",
-   "venue": "Jazzclub im Leeren Beutel"
-  },
   {
    "id": "2026-11-04-maelzerei-kaminer",
    "added": "2026-10-20",
@@ -80,6 +68,7 @@
    "id": "2026-11-06-maelzerei-slam",
    "added": "2026-10-16",
    "date": "2026-11-06",
+   "info": "Laut Programm ausverkauft",
    "source": "web",
    "time": "20:00",
    "title": "Poetry Slam",
@@ -1581,8 +1570,6 @@
   {"id": "2026-11-27-zap-8090", "added": "2026-11-02", "date": "2026-11-27", "info": "Laut ZAP-Novemberprogramm, Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "80/90er Party", "type": "Party", "url": "https://www.instagram.com/p/DfNOEFFjJIZ/", "venue": "ZAP"},
   {"id": "2026-11-28-zap-apresski", "added": "2026-11-02", "date": "2026-11-28", "info": "Laut ZAP-Novemberprogramm, Uhrzeit nicht angegeben", "source": "instagram", "time": "", "title": "Après-Ski Party", "type": "Party", "url": "https://www.instagram.com/p/DfNOEFFjJIZ/", "venue": "ZAP"},
   {"id": "2026-11-24-degginger-netzwerk", "added": "2026-11-02", "date": "2026-11-24", "info": "Networking-Treffen", "source": "web", "time": "", "title": "Netzwerkdienstag der Kreativen", "type": "Sonstiges", "url": "https://www.degginger.de/programm", "venue": "Degginger"},
-  {"id": "2026-11-02-filmgalerie-queens", "added": "2026-11-02", "date": "2026-11-02", "info": "Film", "source": "web", "time": "19:00", "title": "Queens of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/queens-of-the-dead/2026-11-02/", "venue": "filmgalerie im Leeren Beutel"},
-  {"id": "2026-11-02-filmgalerie-zombie2", "added": "2026-11-02", "date": "2026-11-02", "info": "Film", "source": "web", "time": "21:00", "title": "Zombie 2 – Day of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/zombie-2-day-of-the-dead/2026-11-02/", "venue": "filmgalerie im Leeren Beutel"},
   {"id": "2026-11-03-filmgalerie-queens", "added": "2026-11-02", "date": "2026-11-03", "info": "Film", "source": "web", "time": "19:00", "title": "Queens of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/queens-of-the-dead/2026-11-03/", "venue": "filmgalerie im Leeren Beutel"},
   {"id": "2026-11-03-filmgalerie-zombie2", "added": "2026-11-03", "date": "2026-11-03", "info": "Film · Romeros Klassiker, erstmals uncut im Kino", "source": "web", "time": "21:00", "title": "Zombie 2 – Day of the Dead", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/zombie-2-day-of-the-dead/2026-11-03/", "venue": "filmgalerie im Leeren Beutel"},
   {"id": "2026-11-07-velvet-sweetsaturday", "added": "2026-11-03", "date": "2026-11-07", "info": "Main Hall: Hip-Hop/Mixed (DJ Bekay) · Retro: 90s–2010s (DJ Mabo) · Secret Club: Latino (DJ Ale) · ab 18 · AK 10 €", "source": "instagram", "time": "23:00", "title": "Sweet Saturday", "type": "Party", "url": "https://www.instagram.com/p/DfRccUORzUW/", "venue": "Velvet Room"},
@@ -1611,7 +1598,19 @@
   {"id": "2026-11-05-turmtheater-achtsammorden", "added": "2026-11-05", "date": "2026-11-05", "info": "Schwarze Komödie", "source": "web", "time": "19:30", "title": "Achtsam Morden", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/achtsam-morden/2026-11-05/", "venue": "Turmtheater Regensburg"},
   {"id": "2026-11-05-hallenbad-masterpieces", "added": "2026-11-05", "date": "2026-11-05", "info": "Immersive Licht- und Videoshow", "source": "web", "time": "19:00", "title": "Masterpieces", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/masterpieces-immersive-licht-und-videoshow-im-hallenbad/2026-11-05/", "venue": "dasStadtwerk.Hallenbad"},
   {"id": "2026-11-05-filmgalerie-minotaurus", "added": "2026-11-05", "date": "2026-11-05", "info": "Film · russisches Drama", "source": "web", "time": "19:30", "title": "Minotaurus", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/minotaurus/2026-11-05/", "venue": "filmgalerie im Leeren Beutel"},
-  {"id": "2026-11-05-filmgalerie-biermann", "added": "2026-11-05", "date": "2026-11-05", "info": "Film · Dokumentation über Wolf Biermann", "source": "web", "time": "19:00", "title": "Biermann", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/biermann/2026-11-05/", "venue": "filmgalerie im Leeren Beutel"}
+  {"id": "2026-11-05-filmgalerie-biermann", "added": "2026-11-05", "date": "2026-11-05", "info": "Film · Dokumentation über Wolf Biermann", "source": "web", "time": "19:00", "title": "Biermann", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/veranstaltung/biermann/2026-11-05/", "venue": "filmgalerie im Leeren Beutel"},
+  {"id": "2026-11-13-filmbuehne-lotulooke", "added": "2026-11-06", "date": "2026-11-13", "info": "Electronic Dance: LOTU x LOOKE · Tech & House · Alte Filmbühne", "source": "instagram", "time": "", "title": "Electronic Dance – LOTU x LOOKE", "type": "Party", "url": "https://www.instagram.com/p/DfZJw36vDFK/", "venue": "Filmbühne"},
+  {"id": "2026-11-09-couch-jamsession", "added": "2026-11-06", "date": "2026-11-09", "info": "Jamsession 18–10 Uhr (laut Flyer) · Fröhliche-Türken-Straße 9", "source": "instagram", "time": "18:00", "title": "Jamsession", "type": "Live", "url": "https://www.instagram.com/p/DfXl1oeNauK/", "venue": "Die Couch"},
+  {"id": "2026-11-06-gaffel-bundesliga", "added": "2026-11-06", "date": "2026-11-06", "info": "18:30 Konferenz 2. Bundesliga · 20:30 HSV : Gladbach", "source": "instagram", "time": "18:30", "title": "Fußball: Konferenz 2. Buli, HSV : Gladbach", "type": "Kneipe & Quiz", "url": "https://www.instagram.com/p/DfY1YSFH1DH/", "venue": "Olle Gaffel"},
+  {"id": "2026-11-07-heart-club", "added": "2026-11-06", "date": "2026-11-07", "info": "Club: From Bucharest with Love (DJ Andreiiii & Ivan) · 25: Clubsounds 2000er–heute (Marco S) · Reservierung: info@heart-regensburg.de", "source": "instagram", "time": "", "title": "From Bucharest with Love / 25", "type": "Party", "url": "https://www.instagram.com/p/DfXvTGSCNZN/", "venue": "Heart"},
+  {"id": "2026-11-28-heart-girlsflohmarkt", "added": "2026-11-06", "date": "2026-11-28", "info": "Secondhand-Flohmarkt, 2. Runde · Standplätze & Tickets über Link in der Bio · danach Weiterfeiern im HEART", "source": "instagram", "time": "18:00", "title": "Girls Flohmarkt", "type": "Sonstiges", "url": "https://www.instagram.com/p/DfXqyryDC4S/", "venue": "Heart"},
+  {"id": "2026-11-06-czerny-party", "added": "2026-11-06", "date": "2026-11-06", "info": "Artists: Mellowbear, Hardt, Cryptic, X.Weazy x Leaxoa, Shadowphy · Post nennt „06.10“, gepostet 06.11. mit „HEUTE“, Datum daraus abgeleitet", "source": "instagram", "time": "23:59", "title": "Club Czerny Nacht", "type": "Party", "url": "https://www.instagram.com/p/DfaAraXDIKs/", "venue": "Club Czerny"},
+  {"id": "2026-11-14-degginger-benvonhackl", "added": "2026-11-06", "date": "2026-11-14", "info": "Eintritt frei", "source": "web", "time": "", "title": "Live: Ben von Hackl", "type": "Live", "url": "https://www.degginger.de/programm", "venue": "Degginger"},
+  {"id": "2026-11-06-koefer-statttheater", "added": "2026-11-06", "date": "2026-11-06", "info": "Kabarett, Comedy, Musik", "source": "web", "time": "19:30", "title": "Alice Köfer – Alles zu meiner Zeit", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/", "venue": "Kleinkunstbühne Statt-Theater"},
+  {"id": "2026-11-06-turmtheater-achtsammorden", "added": "2026-11-06", "date": "2026-11-06", "info": "Kriminalkomödie", "source": "web", "time": "19:30", "title": "Achtsam Morden", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/", "venue": "Turmtheater Regensburg"},
+  {"id": "2026-11-06-hallenbad-masterpieces", "added": "2026-11-06", "date": "2026-11-06", "info": "Immersive Licht- und Videoshow", "source": "web", "time": "19:00", "title": "Masterpieces", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/", "venue": "dasStadtwerk.Hallenbad"},
+  {"id": "2026-11-06-filmgalerie-minotaurus", "added": "2026-11-06", "date": "2026-11-06", "info": "Film", "source": "web", "time": "19:30", "title": "Minotaurus", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/", "venue": "filmgalerie im Leeren Beutel"},
+  {"id": "2026-11-06-filmgalerie-biermann", "added": "2026-11-06", "date": "2026-11-06", "info": "Film · Dokumentation über Wolf Biermann", "source": "web", "time": "17:00", "title": "Biermann", "type": "Kultur", "url": "https://kalender.regensburg-digital.de/", "venue": "filmgalerie im Leeren Beutel"}
  ],
  "weekly": [
   {
